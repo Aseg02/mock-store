@@ -1,5 +1,5 @@
-# Responsive ecom Website ⌚
-### Responsive ecom Website ⌚
+# Responsive ecom Website 
+### Responsive ecom Website 
 
 - Responsive Ecom Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
